@@ -12,9 +12,9 @@
   <img src="https://raw.githubusercontent.com/ftluzano/ftluzano/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Welcome%20To%20My%20Profile&fontSize=22&animation=fadeIn&fontColor=ffffff" alt="Animated Header" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ftluzano/ftluzano/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Summary" />
+</p>
 
 <p>3rd-year BSIT Student @ Pateros Technological College | Python & Web Developer</p>
 
