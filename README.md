@@ -14,16 +14,14 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ftluzano&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+### 🚀 Featured Projects
+- **[D14DamonGW](https://github.com/ftluzano/D14DamonGW):** TypeScript web application and tools.
+- **[foundlink](https://github.com/ftluzano/foundlink):** Utility repository & asset sync.
+- **[MYWEB](https://github.com/ftluzano/MYWEB):** Web technology development projects.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftluzano&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 ---
 
 ### 📫 Connect with Me
-- Website / Portfolio: [d14damon.me](https://d14damon.me)
-- ORCID: [0009-0005-6133-8544](https://orcid.org/0009-0005-6133-8544)
+- **Website / Portfolio:** [d14damon.me](https://d14damon.me)
+- **ORCID:** [0009-0005-6133-8544](https://orcid.org/0009-0005-6133-8544)
+- **Email:** ftluzano@paterostechnologicalcollege.edu.ph
