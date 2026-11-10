@@ -2,6 +2,10 @@
 
 # Hi there, I'm DevilNamedDamon 👋
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Welcome%20To%20My%20Profile&fontSize=22&animation=fadeIn&fontColor=ffffff" alt="Animated Header" />
+</div>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=39D353&center=true&vCenter=true&width=430&lines=STUDENT+WEB-APP+DEVELOPER;Python+%26+TypeScript+Dev;Building+Discord+Bots+%26+Web+Apps;GitHub+Codespaces+User" alt="Terminal Typing Animation" />
 
 <p align="center">
