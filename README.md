@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=39D353&center=true&vCenter=true&width=430&lines=STUDENT+WEB-APP+DEVELOPER;Python+%26+TypeScript+Dev;Building+Discord+Bots+%26+Web+Apps;GitHub+Codespaces+User" alt="Terminal Typing Animation" />
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ftluzano/ftluzano/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
 <p>3rd-year BSIT Student @ Pateros Technological College | Python & Web Developer</p>
 
 <p>
