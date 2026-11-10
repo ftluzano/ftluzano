@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Franklin+Kyle+👋;3rd-year+BSIT+Student;Python+%26+Web+Developer;Building+Discord+Bots+%26+Web+Apps" alt="Typing SVG" />
+</p>
+
 ### Hi there, I'm Franklin Kyle 👋 
 *3rd-year BSIT Student at Pateros Technological College | Python & Web Developer*
 
