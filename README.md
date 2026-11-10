@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,ts,html,css,git,github,vscode,canva" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,ts,html,css,git,github,vscode,mongodb,discord,postman,vercel,tailwind,canva" alt="Tech Stack" />
 </p>
 
 - **Languages:** Python, TypeScript, HTML/CSS
