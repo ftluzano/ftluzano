@@ -8,7 +8,9 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Discord-Bot%20Dev-5865F2?logo=discord&logoColor=white" alt="Discord" />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=39D353&center=true&vCenter=true&width=430&lines=3rd-year+BSIT+Student;Python+%26+TypeScript+Dev;Building+Discord+Bots+%26+Web+Apps;GitHub+Codespaces+User" alt="Terminal Typing Animation" />
+</p>
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
