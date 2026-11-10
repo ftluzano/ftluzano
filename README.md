@@ -1,9 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Franklin+Kyle+👋;3rd-year+BSIT+Student;Python+%26+Web+Developer;Building+Discord+Bots+%26+Web+Apps" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi there, I'm Franklin Kyle 👋</h1>
+<p align="center"><b>3rd-year BSIT Student @ Pateros Technological College | Python & Web Developer</b></p>
 
-### Hi there, I'm Franklin Kyle 👋 
-*3rd-year BSIT Student at Pateros Technological College | Python & Web Developer*
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Codespaces-1f2328?logo=github&logoColor=white" alt="Codespaces" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Discord-Bot%20Dev-5865F2?logo=discord&logoColor=white" alt="Discord" />
+</p>
 
 ---
 
