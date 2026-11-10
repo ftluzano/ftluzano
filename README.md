@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ftluzano/ftluzano/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Summary" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ftluzano&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=3" alt="GitHub Trophies" />
 </p>
 
 <p>3rd-year BSIT Student @ Pateros Technological College | Python & Web Developer</p>
