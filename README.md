@@ -1,16 +1,21 @@
-<h1 align="center">Hi there, I'm Franklin Kyle 👋</h1>
-<p align="center"><b><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=39D353&center=true&vCenter=true&width=430&lines=3rd-year+BSIT+Student;Python+%26+TypeScript+Dev;Building+Discord+Bots+%26+Web+Apps;GitHub+Codespaces+User" alt="Terminal Typing Animation" />
-</p> @ Pateros Technological College | Python & Web Developer</b></p>
+<div align="center">
 
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Codespaces-1f2328?logo=github&logoColor=white" alt="Codespaces" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Discord-Bot%20Dev-5865F2?logo=discord&logoColor=white" alt="Discord" />
+# Hi there, I'm Franklin Kyle 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=39D353&center=true&vCenter=true&width=430&lines=3rd-year+BSIT+Student;Python+%26+TypeScript+Dev;Building+Discord+Bots+%26+Web+Apps;GitHub+Codespaces+User" alt="Terminal Typing Animation" />
+
+<p>3rd-year BSIT Student @ Pateros Technological College | Python & Web Developer</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Codespaces-1f2328?style=flat&logo=github&logoColor=white" alt="Codespaces" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord Bot Dev" />
 </p>
 
+</div>
 
+---
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
