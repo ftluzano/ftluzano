@@ -18,10 +18,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ftluzano&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftluzano&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
 ---
 
 ### 📫 Connect with Me
