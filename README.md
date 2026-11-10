@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=ftluzano&color=39d353&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-<p>3rd-year BSIT Student @ Pateros Technological College | Python & Web and App Developer</p>
+<p>BSIT Student @ Pateros Technological College | Python & Web and App Developer</p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
