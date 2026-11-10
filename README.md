@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ftluzano&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=3" alt="GitHub Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=ftluzano&color=39d353&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p>3rd-year BSIT Student @ Pateros Technological College | Python & Web Developer</p>
